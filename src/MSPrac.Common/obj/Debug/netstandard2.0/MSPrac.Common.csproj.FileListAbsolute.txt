@@ -1,0 +1,9 @@
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Common\bin\Debug\netstandard2.0\MSPrac.Common.deps.json
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Common\bin\Debug\netstandard2.0\MSPrac.Common.dll
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Common\bin\Debug\netstandard2.0\MSPrac.Common.pdb
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Common\obj\Debug\netstandard2.0\MSPrac.Common.csprojAssemblyReference.cache
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Common\obj\Debug\netstandard2.0\MSPrac.Common.csproj.CoreCompileInputs.cache
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Common\obj\Debug\netstandard2.0\MSPrac.Common.AssemblyInfoInputs.cache
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Common\obj\Debug\netstandard2.0\MSPrac.Common.AssemblyInfo.cs
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Common\obj\Debug\netstandard2.0\MSPrac.Common.dll
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Common\obj\Debug\netstandard2.0\MSPrac.Common.pdb

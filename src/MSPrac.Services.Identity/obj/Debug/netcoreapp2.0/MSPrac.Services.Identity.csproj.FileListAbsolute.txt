@@ -1,0 +1,14 @@
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\bin\Debug\netcoreapp2.0\MSPrac.Services.Identity.deps.json
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\bin\Debug\netcoreapp2.0\MSPrac.Services.Identity.runtimeconfig.json
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\bin\Debug\netcoreapp2.0\MSPrac.Services.Identity.runtimeconfig.dev.json
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\bin\Debug\netcoreapp2.0\MSPrac.Services.Identity.dll
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\bin\Debug\netcoreapp2.0\MSPrac.Services.Identity.pdb
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\bin\Debug\netcoreapp2.0\MSPrac.Common.dll
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\bin\Debug\netcoreapp2.0\MSPrac.Common.pdb
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\obj\Debug\netcoreapp2.0\MSPrac.Services.Identity.csprojAssemblyReference.cache
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\obj\Debug\netcoreapp2.0\MSPrac.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\obj\Debug\netcoreapp2.0\MSPrac.Services.Identity.AssemblyInfoInputs.cache
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\obj\Debug\netcoreapp2.0\MSPrac.Services.Identity.AssemblyInfo.cs
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\obj\Debug\netcoreapp2.0\MSPrac.Services.Identity.csproj.CopyComplete
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\obj\Debug\netcoreapp2.0\MSPrac.Services.Identity.dll
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Identity\obj\Debug\netcoreapp2.0\MSPrac.Services.Identity.pdb

@@ -1,0 +1,14 @@
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\bin\Debug\netcoreapp2.0\MSPrac.Services.Activities.deps.json
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\bin\Debug\netcoreapp2.0\MSPrac.Services.Activities.runtimeconfig.json
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\bin\Debug\netcoreapp2.0\MSPrac.Services.Activities.runtimeconfig.dev.json
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\bin\Debug\netcoreapp2.0\MSPrac.Services.Activities.dll
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\bin\Debug\netcoreapp2.0\MSPrac.Services.Activities.pdb
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\bin\Debug\netcoreapp2.0\MSPrac.Common.dll
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\bin\Debug\netcoreapp2.0\MSPrac.Common.pdb
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\obj\Debug\netcoreapp2.0\MSPrac.Services.Activities.csprojAssemblyReference.cache
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\obj\Debug\netcoreapp2.0\MSPrac.Services.Activities.csproj.CoreCompileInputs.cache
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\obj\Debug\netcoreapp2.0\MSPrac.Services.Activities.AssemblyInfoInputs.cache
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\obj\Debug\netcoreapp2.0\MSPrac.Services.Activities.AssemblyInfo.cs
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\obj\Debug\netcoreapp2.0\MSPrac.Services.Activities.csproj.CopyComplete
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\obj\Debug\netcoreapp2.0\MSPrac.Services.Activities.dll
+C:\Users\John Gallagher\Desktop\projects\microservices-practice\src\MSPrac.Services.Activities\obj\Debug\netcoreapp2.0\MSPrac.Services.Activities.pdb
